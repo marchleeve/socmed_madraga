@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head> 
-        <title>Socmed Sabalande</title>
+        <title></title>
          <link href="views/res/styles.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
